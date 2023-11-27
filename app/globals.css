@@ -3,6 +3,13 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    /* font-family: 'Gentium Book Plus', system-ui, sans-serif; */
+    /* font-family: var(--font-inter); */
+  }
+  /* h1 {
+    font-family: var(--font-roboto-mono);
+  } */
   h1,
   h2,
   h3,

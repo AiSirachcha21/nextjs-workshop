@@ -2,9 +2,9 @@
   "blogs": [
     {
       "id": "1",
-      "title": "Understanding and using interfaces in TypeScript",
+      "title": "Interfaces in TypeScript",
       "miniDescription": "Learn how to use interfaces to describe the shape of objects and implement type checking in TypeScript.",
-      "description": "TypeScript is a superset of JavaScript that introduces new features and helpful improvements to the language, including a powerful static typing system. By adding types to your code, you can spot or avoid errors early and get rid of errors at compilation. In this article, we will go over one of the most important typing features in TypeScript: interfaces. They allow us to describe the objects that will use in our code, ultimately helping us catch errors and write more efficient code.",
+      "description": "TypeScript is a superset of JavaScript that introduces new features and helpful improvements to the language, including a powerful static typing system. By adding types to your code, you can spot or avoid errors early and get rid of errors at compilation.",
       "content": "Introduction to interfaces\nHow to use an interface\nHow to define optional properties in interfaces\nRead-only properties in interfaces\nIndexable properties in interfaces\nHow to define function types in interfaces\nHow to use interfaces with classes\nDifferent types of variables in a class\nExtending interfaces\nHow to use generics in interfaces\nHow TypeScript compiles interfaces\nWhy use interfaces?\nCallable interfaces\nHow to use interfaces with React\nUsing interfaces in Angular",
       "createdAt": "2022-08-26T00:00:00.000Z",
       "updatedAt": "2022-09-09T00:00:00.000Z",

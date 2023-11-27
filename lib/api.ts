@@ -1,7 +1,7 @@
 import { Blog } from '@/types/Blog';
 
 export const getBlogs = async () => {
-  const res = await fetch('http://localhost:8000/blogs', { cache: 'no-store' });
+  const res = await fetch('http://localhost:8000/blogs');
   // const res = await fetch("http://localhost:3000/api/blogs", { cache: "no-store" });
 
   const blogs: Blog[] = await res.json();
